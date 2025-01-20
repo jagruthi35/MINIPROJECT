@@ -10,8 +10,8 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout Repo oppp
+        uses: jagruthi35/MINIPROJECT@main
 
       - name: AI Code Reviewer
         uses: jagruthi35/MINIPROJECT@main
